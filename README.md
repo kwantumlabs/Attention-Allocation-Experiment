@@ -113,11 +113,17 @@ this project demonstrates how incentive structures induce long-run behavioural c
 ## Citations:
 
 [1] Tullock, G. (2001). Efficient Rent Seeking. In: Lockard, A.A., Tullock, G. (eds) Efficient Rent-Seeking. Springer, Boston, MA. (https://doi.org/10.1007/978-1-4757-5055-3_2)
+
 [2] Kooreman, P. & Schoonbeek, L. (1997). The specification of the probability functions in Tullock’s rent-seeking contest. Economics Letters, 56(1), 59–61. (https://doi.org/10.1016/S0165-1765(97)00131-6)
+
 [3] Szabó, G. & Fáth, G. (2007). Evolutionary games on graphs. Physics Reports, 446(4–6), 97–216. (https://doi.org/10.1016/j.physrep.2007.04.004)
+
 [4] Traulsen, A. & Hauert, C. (2009). Stochastic evolutionary game dynamics. In H.-G. Schuster (Ed.), Reviews of Nonlinear Dynamics and Complexity (Vol. 2, pp. 25–61). Wiley-VCH. (https://doi.org/10.1002/9783527628001.ch2)
+
 [5] Roca, C. P., Cuesta, J. A., & Sánchez, A. (2009). Evolutionary game theory: Temporal and spatial effects beyond replicator dynamics. Physics of Life Reviews, 6(4), 208–249. (https://doi.org/10.1016/j.plrev.2009.08.001)
+
 [6] Nisan, N., Roughgarden, T., Tardos, É., & Vazirani, V. V. (Eds.). (2007). Algorithmic Game Theory. Cambridge University Press
+
 [7] Ratkiewicz, J., Fortunato, S., Flammini, A., Menczer, F., & Vespignani, A. (2010). Characterizing and modeling the dynamics of online popularity. Physical Review Letters, 105(15), 158701. https://doi.org/10.1103/PhysRevLett.105.158701
 
 
