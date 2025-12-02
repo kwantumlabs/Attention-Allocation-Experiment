@@ -50,15 +50,15 @@ Across both dynamics, mean honesty consistently declined from its initial value 
 
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/fb142373beba74b59873ba795da2fa3bbd917a69/agent-based%20plot.png)
 
-*Figure 1: agent-based simulation for N = 2000, $\alpha_{\text{auth}}$ = 0.6, $\alpha_{\text{opt}}$ = 1.0, $B$ = 0.01, $k$ = 1.0, $\gamma$ = 20.0, $\beta$ = 50.0*
+Figure 1: agent-based simulation for $N = 2000$, $\alpha_{\text{auth}} = 0.6$, $\alpha_{\text{opt}} = 1.0$, $B = 0.01$, $k = 1.0$, $\gamma = 20.0$, $\beta = 50.0$
 
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/3f9958439775e0897844ff3789361e55b967bfef/replicator%20plot.png)
 
-*Figure 2: replicator dynamics simulation for N = 2000, $\alpha_{\text{auth}}$ = 0.6, $\alpha_{\text{opt}}$ = 1.0, $B$ = 0.01, $k$ = 1.0, $\gamma$ = 20.0, $\beta$ = 50.0*
+Figure 2: replicator dynamics simulation for $N = 2000$, $\alpha_{\text{auth}} = 0.6$, $\alpha_{\text{opt}} = 1.0$, $B = 0.01$, $k = 1.0$, $\gamma = 20.0$, $\beta = 50.0$
 
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/7c38cbb8e87cc32b36bb96d7a27641a6f37b8895/heatmap%20plot.png)
 
-*Figure 3: heatmap produced by replicator dynamics after 10 steps*
+Figure 3: heatmap produced by replicator dynamics after $10$ steps
 
 **Proposition: zero honesty is a dominant strategy solution for a platform with a content scoring function which decreases with honesty**
 
