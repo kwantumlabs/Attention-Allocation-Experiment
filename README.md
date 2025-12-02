@@ -68,13 +68,13 @@ We adopt the convenient notation $s = (s_{\text{i}}, s_{\text{-i}})$, where $s \
 
 note that 
 
-$$u_{\text{i}}(c(s)) = B + k(\frac{(c_{\text{i}})^\gamma}{\sum_j(c_{\text{j}})^\gamma})$$
+$$u_{\text{i}}(c(s)) = B + k\left(\frac{(c_{\text{i}})^\gamma}{\sum_j(c_{\text{j}})^\gamma}\right)$$
 
 **Lemma**: $\frac{x}{x+a}$ is monotonically increasing for $x \geq 0$ and $a \neq 0$.
 
 **Proof**: 
 
-$$\left(\frac{x}{x+a}\right)' = \frac{(x+a)(x)' - x(x+c)'}{(x+a)^2} = \frac{x+a-x}{(x+a)^2} = \frac{a}{(x+a)^2} \geq 0, \forall a \geq 0, x \geq 0$$
+$$\left(\frac{x}{x+a}\right)' = \frac{(x+a)(x)' - x(x+a)'}{(x+a)^2} = \frac{x+a-x}{(x+a)^2} = \frac{a}{(x+a)^2} \textgreater 0, \forall a \textgreater 0, x \textgreater 0$$
 
 in order to decide if (!) holds we must compare: 
 
