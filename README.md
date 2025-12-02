@@ -124,7 +124,7 @@ this project demonstrates how incentive structures induce long-run behavioural c
 
 [6] Nisan, N., Roughgarden, T., Tardos, É., & Vazirani, V. V. (Eds.). (2007). Algorithmic Game Theory. Cambridge University Press
 
-[7] Ratkiewicz, J., Fortunato, S., Flammini, A., Menczer, F., & Vespignani, A. (2010). Characterizing and modeling the dynamics of online popularity. Physical Review Letters, 105(15), 158701. https://doi.org/10.1103/PhysRevLett.105.158701
+[7] Ratkiewicz, J., Fortunato, S., Flammini, A., Menczer, F., & Vespignani, A. (2010). Characterizing and modeling the dynamics of online popularity. Physical Review Letters, 105(15), 158701. (https://doi.org/10.1103/PhysRevLett.105.158701)
 
 
 
