@@ -49,8 +49,16 @@ Both processes select for creators whose payoff under the platform reward system
 Across both dynamics, mean honesty consistently declined from its initial value (provided the distribution had enough honesty values lower than the mean to work with in the case of the agent-based model). Under replicator dynamics, mean honesty monotonically decreased towards 0. The agent-based model exhibited a slower, noisier decline as a result of using the Fermi rule and never declined all the way to 0 (as we are only swapping honesties around, and there's no guarantee that we'll have enough 0-honesty players at any given point in time, with a game running for long enough, for us to observe a complete collapse). However, the trend was identical: the platform's virality-based reward structure reshapes the creator population toward increasingly engagement-maximising, culturally irresponsible creative content. In addition, the heatmap generated shows that not only does honesty collapse faster for greater $\gamma$, it also collapses faster for a greater total amount of attention to be allocated strategically $k$. This is because the decisions our agents make probabilistically depend on the relative difference in their winnings which is now greater for a greater amount of the resource to take, because the relative proportions of that resource held are roughly the same at each time step as in the smaller $k$ case.
 
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/fb142373beba74b59873ba795da2fa3bbd917a69/agent-based%20plot.png)
+
+*Figure 1: agent-based simulation for N = 2000, $\alpha_{\text{auth}}$ = 0.6, $\alpha_{\text{opt}}$ = 1.0, $B$ = 0.01, $k$ = 1.0, $\gamma$ = 20.0, $\beta$ = 50.0*
+
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/3f9958439775e0897844ff3789361e55b967bfef/replicator%20plot.png)
+
+*Figure 2: replicator dynamics simulation for N = 2000, $\alpha_{\text{auth}}$ = 0.6, $\alpha_{\text{opt}}$ = 1.0, $B$ = 0.01, $k$ = 1.0, $\gamma$ = 20.0, $\beta$ = 50.0*
+
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/7c38cbb8e87cc32b36bb96d7a27641a6f37b8895/heatmap%20plot.png)
+
+*Figure 3: heatmap produced by replicator dynamics after 10 steps*
 
 **Proposition: zero honesty is a dominant strategy solution for a platform with a content scoring function which decreases with honesty**
 
