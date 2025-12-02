@@ -50,7 +50,7 @@ Across both dynamics, mean honesty consistently declined from its initial value 
 
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/fb142373beba74b59873ba795da2fa3bbd917a69/agent-based%20plot.png)
 ![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/3f9958439775e0897844ff3789361e55b967bfef/replicator%20plot.png)
-
+![Alt text](https://github.com/kwantumlabs/Attention-Allocation-Experiment/blob/7c38cbb8e87cc32b36bb96d7a27641a6f37b8895/heatmap%20plot.png)
 
 **Proposition: zero honesty is a dominant strategy solution for a platform with a content scoring function which decreases with honesty**
 
