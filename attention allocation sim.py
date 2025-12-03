@@ -252,7 +252,7 @@ def run_replicator(
         freq = freq + dt * df
         
         freq = np.clip(freq, 1e-10, None)
-        freq = freq/freq.sum()
+        freq /= freq.sum()
         history[t, :] = freq
     
     return{
