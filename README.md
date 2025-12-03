@@ -100,13 +100,13 @@ The only way to avoid collapse to zero honesty in this model is if $\alpha_{\tex
 
 *Cultural responsibility is not evolutionarily stable unless the platform actively incentivises it.*
 
-this reflects classical results from mechanism design; that if a system rewards a property, equilibrium behaviour will favor that proprty, even when doing so will have negative externalities. 
+this reflects classical results from mechanism design; that if a system rewards a property, equilibrium behaviour will favor that property, even when doing so will have negative externalities. 
 
 ## Limitations and Future Work
 
 1. **Variable attention supply:**
 
-This formulation of reward (attention) makes this a zero-sum game. The total amount of attention available to crreators at any given point in time is constant at $nB + k$ where $n$ is the number of creators. In reality, this would be elastic. platforms grow and shrink, genres trend, and user behaviour is time-dependent. A more realistic model should take this into account.
+This formulation of reward (attention) makes this a zero-sum game. The total amount of attention available to creators at any given point in time is constant at $nB + k$, where $n$ is the number of creators. In reality, this would be elastic. platforms grow and shrink, genres trend, and user behaviour is time-dependent. A more realistic model should take this into account.
 
 2. **Strategy mutation or innovation**
 
