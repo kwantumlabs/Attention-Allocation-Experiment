@@ -100,7 +100,7 @@ The only way to avoid collapse to zero honesty in this model is if $\alpha_{\tex
 
 *Cultural responsibility is not evolutionarily stable unless the platform actively incentivises it.*
 
-this reflects classical results from mechanism design; that if a system rewards a property, equilibrium behaviour will favor that property, even when doing so will have negative externalities. 
+This reflects a classical problem; that if a system rewards a property, equilibrium behaviour will favor that property, even when doing so will have negative externalities. 
 
 ## Limitations and Future Work
 
