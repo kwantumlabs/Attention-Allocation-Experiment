@@ -94,7 +94,7 @@ ${\Large \left(\frac{(c_{\text{i}}^\ast)^\gamma}{(c_{\text{i}}^\ast)^\gamma + \s
 
 These expressions are in the form $\frac{x}{x+a}$, where $a$ is the constant $\sum_{j \neq i}(c_{\text{j}}^\ast)^\gamma$. By our lemma, this means that comparing (1) and (2) is as good as comparing $c_{\text{i}}$ and $c_{\text{i}}^\ast$.
 
-$s_{\text{i}}$ = h = 0. By our scoring function, the attention reward from this strategy will be $\alpha_{\text{opt}}$. since the scoring function is monotonically decreasing with h, any other strategy played by player i ($s_{\text{i}}^\ast$) must give a content score $\leq \alpha_{\text{opt}}$ (since $h^\ast \geq h=0$ for any other strategy). this means then, that for whatever strategy we pick, since the content score is at most as high as it is when when $h = 0$, (1) $\geq$ (2) for any strategy vector $s^\ast \in S$. $\square$
+$s_{\text{i}}$ = h = 0. By our scoring function, the attention reward from this strategy will be $\alpha_{\text{opt}}$. since the scoring function is monotonically decreasing with h, any other strategy played by player i ($s_{\text{i}}^\ast$) must give a content score $\leq \alpha_{\text{opt}}$ (since $h^\ast \geq h=0$ for any other strategy). this means then, that for whatever strategy we pick, since the content score is at most as high as it is when $h = 0$, (1) $\geq$ (2) for any strategy vector $s^\ast \in S$. $\square$
 
 The only way to avoid collapse to zero honesty in this model is if $\alpha_{\text{auth}} \geq \alpha_{\text{opt}}$. The conclusion we draw is:
 
