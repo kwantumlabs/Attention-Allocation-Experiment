@@ -68,7 +68,7 @@ We adopt the convenient notation $s = (s_{\text{i}}, s_{\text{-i}})$, where $s \
 
 note that 
 
-$$u_{\text{i}}(c(s)) = B + k\left(\frac{(c_{\text{i}})^\gamma}{\sum_j(c_{\text{j}})^\gamma}\right)$$
+$$u_{\text{i}}(c_{\text{i}}(s_{\text{i}})) = B + k\left(\frac{c_{\text{i}}^\gamma}{\sum_j(c_{\text{j}})^\gamma}\right) = B + k\left(\frac{c_{\text{i}}^\gamma}{c_{\text{i}}^\gamma + \sum_{j \neq i}(c_{\text{j}})^\gamma}\right)$$ 
 
 **Lemma**: $\frac{x}{x+a}$ is monotonically increasing for $x \geq 0$ and $a \textgreater 0$.
 
