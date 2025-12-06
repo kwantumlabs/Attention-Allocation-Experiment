@@ -78,7 +78,7 @@ $$\left(\frac{x}{x+a}\right)' = \frac{(x+a)(x)' - x(x+a)'}{(x+a)^2} = \frac{x+a-
 
 in order to decide if (!) holds we must compare: 
 
-${\Large B + k\left(\frac{c_{\text{i}}^\gamma}{c_{\text{i}}^\gamma + \sum_{j \neq i}(c_{\text{j}})^\gamma}\right)}$
+${\Large B + k\left(\frac{c_{\text{i}}^\gamma}{c_{\text{i}}^\gamma + \sum_{j \neq i}(c_{\text{j}}^\ast)^\gamma}\right)}$
 
 with 
 
